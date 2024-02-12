@@ -1,6 +1,6 @@
 ims at providing a hassle free and enjoyable shopping experience to shoppers across the country with the widest range of brands and products on its portal.
 
-![Myntra-logo-horizontal](https://github.com/rahulrajan15/amazon_sales_Tableau_dashbaord_/assets/113009011/5b371a43-d2eb-4095-9b83-ea2d0df51998)
+<img width="611" alt="Myntra" src="https://github.com/aishwaryajoshii/Dashboards/assets/141454980/ac8f577c-b603-4ac4-82af-027d8407ee27">
 
 # Project Summary
 The Myntra Sales Power BI Dashboard offers real-time insights into sales performance, customer behavior, and product trends. This interactive dashboard empowers stakeholders to make data-driven decisions by visualizing key sales metrics and customer segmentation. 
