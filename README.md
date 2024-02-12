@@ -20,5 +20,4 @@ Datasets : Kaggle
 
 <img width="631" alt="Myntra_Dashboard" src="https://github.com/aishwaryajoshii/Dashboards/assets/141454980/5cd35bb4-2d58-422b-abc4-5839df7f99aa">
 
-# SignIn to Power Bi Desktop and copy paste the below link in browser to view.
-Myntra Power Bi Dashboard : https://app.powerbi.com/view?r=eyJrIjoiZjA2NTg3NTAtZjgzYy00NzQxLWFhM2YtNzAzMjcxYTkzODYzIiwidCI6ImVkZGQ2ZTMyLTc3MzMtNDQ3MS1iZTFmLTBjZjc0YjJjNmNhMSJ9
+
