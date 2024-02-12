@@ -27,7 +27,7 @@ Datasets : Kaggle
 Amazon is an American multinational technology company focusing on e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence. 
 It has been often referred to as "one of the most influential economic and cultural forces in the world" and is often regarded as one of the world's most valuable brands.
 
-![am1 logo](https://github.com/rahulrajan15/amazon_sales_Tableau_dashbaord_/assets/113009011/e4c04433-cc4d-449b-a2f5-96972e72cb02)
+<img width="601" alt="amazon_logo" src="https://github.com/aishwaryajoshii/Dashboards/assets/141454980/f82e6ef8-c05b-4be6-a4e6-1a32e41519d4">
 
 # Project Summary
 
