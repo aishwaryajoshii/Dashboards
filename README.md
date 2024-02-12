@@ -49,7 +49,6 @@ Datasets : Kaggle
 
 <img width="639" alt="amazon_dashboard" src="https://github.com/aishwaryajoshii/Dashboards/assets/141454980/55897969-d8ef-4fea-ac3e-834a0c8ebe71">
 
-# SignIn to Tableau public and copy paste the below link in browser to view.
-Amazon Tableau Dashboard : https://public.tableau.com/app/profile/rahul.rajan5084/viz/AmazonSalesIN/Dashboard1?publish=yes
+
 
 
