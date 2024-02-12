@@ -47,7 +47,7 @@ Datasets : Kaggle
 4) Enhanced decision-making with accurate KPIs, achieving 95% accuracy in tracking sales growth and customer satisfaction.
 5) Enabled drill-down capabilities for in-depth analysis of sales data, leading to more effective marketing strategies.
 
-![Amazon_dashboard](https://github.com/rahulrajan15/amazon_sales_Tableau_dashbaord_/assets/113009011/d166b636-215a-4c2d-a608-70737b7ef52a)
+<img width="639" alt="amazon_dashboard" src="https://github.com/aishwaryajoshii/Dashboards/assets/141454980/55897969-d8ef-4fea-ac3e-834a0c8ebe71">
 
 # SignIn to Tableau public and copy paste the below link in browser to view.
 Amazon Tableau Dashboard : https://public.tableau.com/app/profile/rahul.rajan5084/viz/AmazonSalesIN/Dashboard1?publish=yes
